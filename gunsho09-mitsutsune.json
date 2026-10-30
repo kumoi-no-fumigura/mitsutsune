@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/mitsutsune",
  "yomi": "ふじわらのみつつねしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "鎌倉前期",
+  "author": "藤原光経",
+  "desc": "藤原光経の家集。建保6年（1218）の中殿御会や内裏歌合など、順徳天皇の内裏の歌会の歌を収め、嵯峨の草庵での俊成卿女との贈答も載せる。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -7003,6 +7008,6 @@
   "poems": 622,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
